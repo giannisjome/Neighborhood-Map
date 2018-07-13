@@ -1,6 +1,6 @@
 # Neighborhood-Map
 
-# #About
+## About
 This is the 8th project for the Udacity FEND nanodegree.
 
 ## Development
